@@ -19,7 +19,7 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 
 |Exercício | Aluno |
 | -- | -- |
-|  |  |
+| [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description) | Ana Caroline C. Rocha |
 
 ### Nível Difícil
 

@@ -10,9 +10,9 @@ function secondMinimum(n: number, edges: number[][], time: number, change: numbe
         const modTime = currentTime % cycle;
         if (modTime < change) {
             return 0;
-        }
+        };
         return cycle - modTime;
-    }
+    };
 
     // dijkstra
     const dist = Array(n + 1).fill(Infinity);
@@ -33,8 +33,8 @@ function secondMinimum(n: number, edges: number[][], time: number, change: numbe
             } else if (newTime < secondDist[v] && newTime > dist[v]) {
                 secondDist[v] = newTime;
                 queue.push([newTime, v]);
-            }
-        }
-    }
+            };
+        };
+    };
     return secondDist[n];
-}
+};
