@@ -7,7 +7,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 19/0083930  |  Ana Caroline C. Rocha|
+| 19/0083930  |  Ana Caroline C. Rocha |
 | 21/1029441  |  Lucas Gobbi Bergholz |
 
 ## Sobre 
@@ -25,6 +25,6 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 
 |Exercício | Aluno |
 | -- | -- |
-|  |  |
+| [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description) | Ana Caroline C. Rocha |
 |  |  |
 |  |  |
