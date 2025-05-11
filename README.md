@@ -26,5 +26,5 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 |Exercício | Aluno |
 | -- | -- |
 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description) | Ana Caroline C. Rocha |
-|  |  |
-|  |  |
+| [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description) | Lucas Gobbi Bergholz |
+| [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description) | Lucas Gobbi Bergholz |
